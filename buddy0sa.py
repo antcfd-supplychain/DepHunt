@@ -130,7 +130,7 @@ def insecure_function_3(data_file):
 
 def sql_injection_example(user_id):
     # SQL injection vulnerability
-    query = f"SELECT * FROM users WHERE id = {user_id}"  # Not using parameterization
+    query = f"SELECT * FROM user WHERE id = {user_id}"  # Not using parameterization
     return query
 
 

@@ -4,6 +4,6 @@ semgrep==1.114.0
 safety==2.3.5
 
 # Common dependencies - customize based on your actual needs
-requests==2.32.2
+requests==2.32.3
 pyyaml==6.0.1
 tqdm==4.67.1

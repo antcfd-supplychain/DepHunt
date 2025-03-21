@@ -1,5 +1,5 @@
 # Security scanning tools
-bandit==1.7.5
+bandit==1.8.3
 semgrep==1.114.0
 safety==2.3.5
 

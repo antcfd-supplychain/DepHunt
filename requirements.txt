@@ -1,7 +1,7 @@
 # Security scanning tools
 bandit==1.7.5
+safety==3.2.14
 semgrep==1.114.0
-safety==2.3.5
 
 # Common dependencies - customize based on your actual needs
 requests==2.32.3

@@ -5,5 +5,5 @@ semgrep==1.114.0
 
 # Common dependencies - customize based on your actual needs
 requests==2.32.3
-pyyaml==6.0.1
+pyyaml==6.0.2
 tqdm==4.67.1
